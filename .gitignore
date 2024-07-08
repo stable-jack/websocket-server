@@ -1,0 +1,17 @@
+node_modules
+.env
+.env.production
+.env.development
+.env.custom
+# Hardhat files
+
+
+/log
+/logs
+
+package-lock.json
+
+.vscode/
+
+error.log
+combined.log
